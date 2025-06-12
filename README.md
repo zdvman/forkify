@@ -2,7 +2,7 @@
 
 **Forkify** is a modern, responsive, feature-rich recipe application that allows users to search, view, bookmark, and upload recipes from a public API. It is designed using the MVC (Model-View-Controller) architecture and built entirely with vanilla JavaScript (ES6+), making it a powerful showcase of clean code structure, modular design, and modern frontend development practices.
 
-> 🌍 **Live App**: [https://cosmic-douhua-1d8ca4.netlify.app](https://cosmic-douhua-1d8ca4.netlify.app)
+> 🌍 **Live App**: [https://forkify-dmytro-zuiev.netlify.app](https://forkify-dmytro-zuiev.netlify.app)
 > 📦 **GitHub Repo**: [https://github.com/zdvman/forkify](https://github.com/zdvman/forkify)
 > 🔗 **API**: [https://forkify-api.jonas.io/](https://forkify-api.jonas.io/)
 
